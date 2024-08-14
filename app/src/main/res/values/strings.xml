@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Suitmedia Submission</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_a_sentence">Enter a sentence</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="retry">Coba lagi</string>
+</resources>
